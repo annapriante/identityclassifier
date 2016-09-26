@@ -1,7 +1,7 @@
 identityclassifier is a folder containing the codebook, code and dataset used in the NLPCSS (EMNLP 2016) paper: 
 
 Priante, A., Hiemstra, D., van den Broek, T., Saaed, A., Ehrenhard, M., and Need, A. 
-WhoAmI in 160 Characters? Classifying Social Identities Based on Twitter Profile Descriptions
+#WhoAmI in 160 Characters? Classifying Social Identities Based on Twitter Profile Descriptions
 NLPCSS 2016
 
 The folder contains the following files:
