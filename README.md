@@ -6,7 +6,9 @@ NLPCSS 2016
 
 The folder contains the following files:
 1- Codebook.pdf contains the codebook which guides the human annotation.
+
 2- IDClassifier.ipynb contains the code used in the paper.
+
 3- Test5_dateset.csv and Train5_dataset.csv are the datasets used in the classification experiments. Each file contains the following information:
 - ScreenName
 - DislayName
